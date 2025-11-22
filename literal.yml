@@ -1,0 +1,10 @@
+nom: poeme-classique
+contenu: |
+  Roses are red,
+  Violets are blue,
+  YAML c'est génial,
+  Et toi aussi tu l'aimes, avoue !
+
+  (avec deux lignes vides à la fin)
+
+signature: -- Grok
